@@ -1535,7 +1535,10 @@ ul {
 
 @media (max-width: 600px) {
   .dento-video-area {
-    width: 100px;
+    width: 100%;
+  }
+  iframe {
+    width: 100%;
   }
 }
 
